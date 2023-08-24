@@ -2,7 +2,7 @@
 
 	class database
 	{
-		protected $server="37.60.232.104"; 
+		protected $server="ip"; 
 		protected $db="jpsistem_mgf"; 
 		protected $user="jpsistem_mgf"; 	
 		protected $pass="Moviles*79";
